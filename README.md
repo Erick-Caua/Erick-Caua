@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Dev Erick Cauã 😁
+##Dev em Formação Erick Cauã 😁
 <div>
    <a href="https://github.com/Erick-Caua">
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erick-Caua&layout=compact&langs_count=6&theme=tokyonight"/>
